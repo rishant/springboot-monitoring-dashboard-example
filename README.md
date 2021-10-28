@@ -20,12 +20,12 @@ Springboot Application Monitoring using SpringbootAdmin Dashboard, Springboot wi
 	- http://localhost:8080/actuator/prometheus
 
 **Download Links:**
-	- https://prometheus.io/download/
-	- https://grafana.com/grafana/download?edition=enterprise&platform=windows
+ - https://prometheus.io/download/
+ - https://grafana.com/grafana/download?edition=enterprise&platform=windows
 
 **Prometheus Dashboard:**
-	- Learning: https://www.javadevjournal.com/spring-boot/spring-boot-actuator-with-prometheus/
-	- Base-Path: http://localhost:9090
+ - Learning: https://www.javadevjournal.com/spring-boot/spring-boot-actuator-with-prometheus/
+ - Base-Path: http://localhost:9090
 
 **Grafana Dashboard:**
   - Learning: https://www.youtube.com/watch?v=gJZhdEJvZmc&t=595s
