@@ -11,6 +11,7 @@ Springboot Application Monitoring using SpringbootAdmin Dashboard, Springboot wi
 7. All 13 endpoint will be enable.
 8. **Create Custom Actuator Endpoint**. 
 	- Learning: https://www.youtube.com/watch?v=t1_RbTb3BUo&t=680s
+	- [![SC2 Video](https://img.youtube.com/vi/t1_RbTb3BUo/0.jpg)](https://www.youtube.com/watch?t1_RbTb3BUo)
 9. Follow step:2 , step:3
 
 // Prometheus & Grafana
@@ -29,17 +30,20 @@ Springboot Application Monitoring using SpringbootAdmin Dashboard, Springboot wi
 
 **Grafana Dashboard:**
   - Learning: https://www.youtube.com/watch?v=gJZhdEJvZmc&t=595s
+  - [![SC2 Video](https://img.youtube.com/vi/gJZhdEJvZmc/0.jpg)](https://www.youtube.com/watch?v=gJZhdEJvZmc&t=595s)
   - Base-Path: http://localhost:3000
 
 **Elastic - Logstash - Kibana Dashboard**
   - Learning: https://www.youtube.com/watch?v=okYwBHGy5hU&list=PLHG8gv7LJNH3X8q8allExHjHIgOLQ2IOJ&index=3
+  - [![SC2 Video](https://img.youtube.com/vi/okYwBHGy5hU/0.jpg)](https://www.youtube.com/watch?v=okYwBHGy5hU&list=PLHG8gv7LJNH3X8q8allExHjHIgOLQ2IOJ&index=3)
   - Download: https://www.elastic.co/downloads/
   - Elasticsearch Base-Path: http://localhost:9200/
   
 
 **Springboot Admin Dashboard**
   - Learning: 
-	-	https://www.youtube.com/watch?v=ERzE_5OT9C4
-	-	https://www.youtube.com/watch?v=B2Gf9GRGKn4
-	-	
+	- https://www.youtube.com/watch?v=ERzE_5OT9C4
+	- [![SC2 Video](https://img.youtube.com/vi/ERzE_5OT9C4/0.jpg)](https://www.youtube.com/watch?v=ERzE_5OT9C4)
+	- https://www.youtube.com/watch?v=B2Gf9GRGKn4
+	- [![SC2 Video](https://img.youtube.com/vi/B2Gf9GRGKn4/0.jpg)](https://www.youtube.com/watch?v=B2Gf9GRGKn4)
   - Admin Dashboard: http://localhost:8081
