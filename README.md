@@ -32,6 +32,10 @@ Springboot Application Monitoring using SpringbootAdmin Dashboard, Springboot wi
   - Base-Path: http://localhost:3000
 
 **Elastic - Logstash - Kibana Dashboard**
+  - Learning: https://www.youtube.com/watch?v=okYwBHGy5hU&list=PLHG8gv7LJNH3X8q8allExHjHIgOLQ2IOJ&index=3
+  - Download: https://www.elastic.co/downloads/
+  - Elasticsearch Base-Path: http://localhost:9200/
+  
 
 **Springboot Admin Dashboard**
   - Learning: 
