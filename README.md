@@ -34,3 +34,8 @@ Springboot Application Monitoring using SpringbootAdmin Dashboard, Springboot wi
 **Elastic - Logstash - Kibana Dashboard**
 
 **Springboot Admin Dashboard**
+  - Learning: 
+	-	https://www.youtube.com/watch?v=ERzE_5OT9C4
+	-	https://www.youtube.com/watch?v=B2Gf9GRGKn4
+	-	
+  - Admin Dashboard: http://localhost:8081
